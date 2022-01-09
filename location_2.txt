@@ -1,0 +1,5 @@
+SpeedyCafe|DollisHill|WatsonHouse|MarbelArch|CafeCorner
+CrystalPalacePark|DennisNilsen|LondonSuperStore|LocalAttacker|ProfessionalShooter
+ColonelSebastianMoran|InventoryRoom|WhiteCityBusStation|ProfessionalShooter|HydePark
+LondonCityAirpot|ProfessionalFighter|LocalAttacker|VaticanMuseum|LocalAttacker
+TescoSuperStore|MarketPlace|TheatreRoyalDrury|LondonSuperStore|InventoryRoom

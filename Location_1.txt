@@ -1,0 +1,4 @@
+BakerStreet21|InventoryRoom|JackTheRipper|MarketPlace|WhiteCityBusStation
+HydePark|TheatreRoyalDrury|LondonSuperStore|LocalAttacker|ProfessionalShooter
+InventoryRoom|TescoSuperStore|ProfessionalShooter|DollisHill|CrystalPalacePark
+LondonCityAirpot|MarbelArch|LocalAttacker|LocalAttacker|TheatreSpace

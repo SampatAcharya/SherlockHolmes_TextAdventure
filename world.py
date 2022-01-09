@@ -31,7 +31,7 @@ def load_tiles(game_level):
             tile_name = cols[x].replace('\n', '') # Windows users may need to replace '\r\n'
             # tile_name = cols[x]
             # this command is used to get the starting point of the game i.e. StartingRoom. 
-            if tile_name == 'BakerStreet21':
+            if tile_name == 'BakerStreet21' or tile_name == 'SpeedyCafe' or tile_name == 'BartholomewHospital':
                 global starting_position
                 starting_position = (x, y)
             # the esle part "getattr(__import__('tiles'), tile_name)(x, y)" gives the value of x and y with the text given in the tiles.py 
